@@ -1,0 +1,83 @@
+{
+    "name": "UniFi",
+    "author": "Jan Heil",
+    "devices": [
+        {
+            "name": "UDM SE",
+            "id": "udm-se",
+            "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-se",
+            "image": "https://space.byte-store.de/internal/woltlab/img/UDM-PRO.png",
+            "units": 1
+        },
+        {
+            "name": "UDM Pro",
+            "id": "udm-pro",
+            "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-pro",
+            "image": "https://space.byte-store.de/internal/woltlab/img/UDM-PRO.png",
+            "units": 1
+        },
+        {
+            "name": "UVNR",
+            "id": "uvnr",
+            "product": "",
+            "image": "https://space.byte-store.de/internal/woltlab/img/UNVR.png",
+            "units": 1
+        },
+        {
+            "name": "UVNR Pro",
+            "id": "uvnr-pro",
+            "product": "",
+            "image": "https://space.byte-store.de/internal/woltlab/img/UNVR-PRO.png",
+            "units": 2
+        },
+        {
+            "name": "USP RPS",
+            "id": "ups-rps",
+            "product": "",
+            "image": "https://space.byte-store.de/internal/woltlab/img/USP-RPS.png",
+            "units": 1
+        },
+        {
+            "name": "Pro 24 Poe",
+            "id": "pro24poe",
+            "product": "",
+            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-24-POE.png",
+            "units": 1
+        },
+        {
+            "name": "Hi-Capacity Aggregation",
+            "id": "highCaggregation",
+            "product": "",
+            "image": "https://space.byte-store.de/internal/woltlab/img/USW_PRO_AGGREGATION.png",
+            "units": 1
+        },
+        {
+            "name": "Pro Max 24",
+            "id": "promax24",
+            "product": "",
+            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-MAX-24.png",
+            "units": 1
+        },
+        {
+            "name": "Pro Max 24 Poe",
+            "id": "promax24poe",
+            "product": "",
+            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-MAX-24-POE.png",
+            "units": 1
+        },
+        {
+            "name": "Pro Max 48",
+            "id": "promax48",
+            "product": "",
+            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-MAX-48.png",
+            "units": 1
+        },
+        {
+            "name": "Pro Max 48 Poe",
+            "id": "promax48poe",
+            "product": "",
+            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-MAX-48-POE.png",
+            "units": 1
+        }
+    ]
+}

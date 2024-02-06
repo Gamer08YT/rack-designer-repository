@@ -3,6 +3,13 @@
     "author": "Jan Heil",
     "devices": [
         {
+            "name": "Patchfeld 24 Ports",
+            "id": "upatch24",
+            "product": "",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-RACK-PANEL-PATCH-BLANK-24.png",
+            "units": 1
+        },
+        {
             "name": "UDM SE",
             "id": "udm-se",
             "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-se",

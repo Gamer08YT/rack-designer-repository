@@ -92,6 +92,48 @@
             "product": "",
             "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-MAX-48-POE.png",
             "units": 1
+        },
+        {
+            "name": "UACC-Rack-Panel-Brush-1U",
+            "id": "UACC-Rack-Panel-Brush-1U",
+            "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-brush-1u",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-Rack-Panel-Brush-1U.png",
+            "units": 1
+        },
+        {
+            "name": "UACC-Rack-Panel-Vented-1U",
+            "id": "UACC-Rack-Panel-Vented-1U",
+            "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-vented-1u",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-Rack-Panel-Vented-1U.png",
+            "units": 1
+        },
+        {
+            "name": "UACC-Rack-Panel-Blank-1U",
+            "id": "UACC-Rack-Panel-Vented-1U",
+            "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-blank-1u",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-Rack-Panel-Blank-1U.png",
+            "units": 1
+        },
+        {
+            "name": "US-16-XG",
+            "id": "US-16-XG",
+            "product": "",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/US-16-XG.png",
+            "units": 1
+        },
+        {
+            "name": "USW-Aggregation",
+            "id": "USW-Aggregation",
+            "product": "https://eu.store.ui.com/eu/en/pro/products/usw-aggregation",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW-Aggregation.png",
+            "units": 1
+        },
+        {
+            "name": "16-Port PoE",
+            "id": "16-Port PoE",
+            "product": "https://eu.store.ui.com/eu/en/pro/products/usw-16-poe",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/16-Port PoE.png",
+            "units": 1
         }
     ]
 }

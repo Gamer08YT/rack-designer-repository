@@ -146,21 +146,21 @@
             "name": "Dell 1400 2U Cut",
             "id": "dell-md14002u.png",
             "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/blob/main/assets/img/devices/dell-md14002u.png",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/dell-md14002u.png",
             "units": 1
         },
         {
             "name": "Generic 1HE Server",
             "id": "generic1Userver",
             "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/blob/main/assets/img/devices/generic1Userver.png",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/generic1Userver.png",
             "units": 1
         },
         {
             "name": "Generic 2HE Server",
             "id": "generic2Userver",
             "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/blob/main/assets/img/devices/generic2Userver.png",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/generic2Userver.png",
             "units": 1
         }
     ]

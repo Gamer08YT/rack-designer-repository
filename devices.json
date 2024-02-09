@@ -3,6 +3,13 @@
     "author": "Jan Heil",
     "devices": [
         {
+            "name": "Unifi Sticker",
+            "id": "sticker",
+            "product": "",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/StickerUbiquiti.png",
+            "units": 2
+        },
+        {
             "name": "Patchfeld 24 Ports",
             "id": "upatch24",
             "product": "",

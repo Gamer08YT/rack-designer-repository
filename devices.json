@@ -10,6 +10,13 @@
             "units": 2
         },
         {
+            "name": "Rackmount FritzBox",
+            "id": "rackfritz",
+            "product": "",
+            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/Rackmount.IT.png",
+            "units": 1
+        },
+        {
             "name": "Patchfeld 24 Ports",
             "id": "upatch24",
             "product": "",

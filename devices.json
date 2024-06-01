@@ -44,8 +44,8 @@
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-RACK-PANEL-PATCH-BLANK-24.png",
       "units": 1,
       "ports": [
-        {"name":"undefined","type": 4,"x":16.59375,"y":25},
-        {"name":"undefined","type": 4,"x":41.59375,"y":25},
+        {"name":"undefined","type": 4,"x":2.60,"y":45},
+        {"name":"undefined","type": 4,"x":6.44,"y":45},
         {"name":"undefined","type": 4,"x":66.59375,"y":25},
         {"name":"undefined","type": 4,"x":91.59375,"y":25},
         {"name":"undefined","type": 4,"x":116.59375,"y":25},

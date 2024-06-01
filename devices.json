@@ -4,7 +4,10 @@
   "ports": [
     {"name": "RJ45"},
     {"name": "SFP"},
-    {"name": "QSFP"}
+    {"name": "QSFP"},
+    {
+      "name": "Keystone"
+    }
   ],
   "devices": [
     {
@@ -28,31 +31,31 @@
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-RACK-PANEL-PATCH-BLANK-24.png",
       "units": 1,
       "ports": [
-        {"name":"undefined","type":"not_implemented","x":16.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":41.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":66.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":91.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":116.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":141.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":166.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":191.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":216.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":241.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":266.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":291.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":316.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":341.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":366.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":391.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":416.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":441.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":466.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":491.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":516.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":541.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":566.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":591.59375,"y":25},
-        {"name":"undefined","type":"not_implemented","x":616.59375,"y":25}
+        {"name":"undefined","type": 4,"x":16.59375,"y":25},
+        {"name":"undefined","type": 4,"x":41.59375,"y":25},
+        {"name":"undefined","type": 4,"x":66.59375,"y":25},
+        {"name":"undefined","type": 4,"x":91.59375,"y":25},
+        {"name":"undefined","type": 4,"x":116.59375,"y":25},
+        {"name":"undefined","type": 4,"x":141.59375,"y":25},
+        {"name":"undefined","type": 4,"x":166.59375,"y":25},
+        {"name":"undefined","type": 4,"x":191.59375,"y":25},
+        {"name":"undefined","type": 4,"x":216.59375,"y":25},
+        {"name":"undefined","type": 4,"x":241.59375,"y":25},
+        {"name":"undefined","type": 4,"x":266.59375,"y":25},
+        {"name":"undefined","type": 4,"x":291.59375,"y":25},
+        {"name":"undefined","type": 4,"x":316.59375,"y":25},
+        {"name":"undefined","type": 4,"x":341.59375,"y":25},
+        {"name":"undefined","type": 4,"x":366.59375,"y":25},
+        {"name":"undefined","type": 4,"x":391.59375,"y":25},
+        {"name":"undefined","type": 4,"x":416.59375,"y":25},
+        {"name":"undefined","type": 4,"x":441.59375,"y":25},
+        {"name":"undefined","type": 4,"x":466.59375,"y":25},
+        {"name":"undefined","type": 4,"x":491.59375,"y":25},
+        {"name":"undefined","type": 4,"x":516.59375,"y":25},
+        {"name":"undefined","type": 4,"x":541.59375,"y":25},
+        {"name":"undefined","type": 4,"x":566.59375,"y":25},
+        {"name":"undefined","type": 4,"x":591.59375,"y":25},
+        {"name":"undefined","type": 4,"x":616.59375,"y":25}
       ]
     },
     {

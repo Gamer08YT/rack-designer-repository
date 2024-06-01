@@ -106,9 +106,9 @@
         {"name":"eth6","type": 0,"x":73.55,"y": 53},
         {"name":"eth7","type": 0,"x":77.1,"y": 53},
         {"name":"eth8","type": 0,"x":80.65,"y": 53},
-        {"name":"wan1","type": 0,"x":88,"y":60},
-        {"name":"sfp1","type": 1,"x":93,"y":32},
-        {"name":"sfp2","type": 1,"x":93,"y":65}
+        {"name":"wan1","type": 0,"x":88,"y":55},
+        {"name":"sfp1","type": 1,"x":92,"y":24},
+        {"name":"sfp2","type": 1,"x":92,"y":58}
       ]
     },
     {

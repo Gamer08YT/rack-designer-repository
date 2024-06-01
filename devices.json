@@ -9,17 +9,25 @@
   "ports": [
     {
       "name": "RJ45",
-      "color": "yellow"},
+      "color": "yellow",
+      "height": "20%",
+      "width": "3%"
+    },
     {
       "name": "SFP",
-      "color": "red"},
+      "color": "red",
+      "height": "20%",
+      "width": "3%"
+    },
     {
       "name": "QSFP",
       "color": "blue"
     },
     {
       "name": "Keystone",
-      "color": "gray"
+      "color": "brown",
+      "height": "35%",
+      "width": "3%"
     }
   ],
   "devices": [
@@ -44,31 +52,31 @@
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-RACK-PANEL-PATCH-BLANK-24.png",
       "units": 1,
       "ports": [
-        {"name":"undefined","type": 4,"x":2.60,"y":45},
-        {"name":"undefined","type": 4,"x":6.44,"y":45},
-        {"name":"undefined","type": 4,"x":66.59375,"y":25},
-        {"name":"undefined","type": 4,"x":91.59375,"y":25},
-        {"name":"undefined","type": 4,"x":116.59375,"y":25},
-        {"name":"undefined","type": 4,"x":141.59375,"y":25},
-        {"name":"undefined","type": 4,"x":166.59375,"y":25},
-        {"name":"undefined","type": 4,"x":191.59375,"y":25},
-        {"name":"undefined","type": 4,"x":216.59375,"y":25},
-        {"name":"undefined","type": 4,"x":241.59375,"y":25},
-        {"name":"undefined","type": 4,"x":266.59375,"y":25},
-        {"name":"undefined","type": 4,"x":291.59375,"y":25},
-        {"name":"undefined","type": 4,"x":316.59375,"y":25},
-        {"name":"undefined","type": 4,"x":341.59375,"y":25},
-        {"name":"undefined","type": 4,"x":366.59375,"y":25},
-        {"name":"undefined","type": 4,"x":391.59375,"y":25},
-        {"name":"undefined","type": 4,"x":416.59375,"y":25},
-        {"name":"undefined","type": 4,"x":441.59375,"y":25},
-        {"name":"undefined","type": 4,"x":466.59375,"y":25},
-        {"name":"undefined","type": 4,"x":491.59375,"y":25},
-        {"name":"undefined","type": 4,"x":516.59375,"y":25},
-        {"name":"undefined","type": 4,"x":541.59375,"y":25},
-        {"name":"undefined","type": 4,"x":566.59375,"y":25},
-        {"name":"undefined","type": 4,"x":591.59375,"y":25},
-        {"name":"undefined","type": 4,"x":616.59375,"y":25}
+        {"name":"undefined","type": 4,"x":1.5,"y":32},
+        {"name":"undefined","type": 4,"x":5.6,"y":32},
+        {"name":"undefined","type": 4,"x":9.7,"y":32},
+        {"name":"undefined","type": 4,"x":13.8,"y":32},
+        {"name":"undefined","type": 4,"x":17.9,"y":32},
+        {"name":"undefined","type": 4,"x":22,"y":32},
+        {"name":"undefined","type": 4,"x":26.1,"y":32},
+        {"name":"undefined","type": 4,"x":30.2,"y":32},
+        {"name":"undefined","type": 4,"x":34.3,"y":32},
+        {"name":"undefined","type": 4,"x":38.4,"y":32},
+        {"name":"undefined","type": 4,"x":42.5,"y":32},
+        {"name":"undefined","type": 4,"x":46.6,"y":32},
+        {"name":"undefined","type": 4,"x":50.7,"y":32},
+        {"name":"undefined","type": 4,"x":54.8,"y":32},
+        {"name":"undefined","type": 4,"x":58.9,"y":32},
+        {"name":"undefined","type": 4,"x":63,"y":32},
+        {"name":"undefined","type": 4,"x":67.1,"y":32},
+        {"name":"undefined","type": 4,"x":71.2,"y":32},
+        {"name":"undefined","type": 4,"x":75.3,"y":32},
+        {"name":"undefined","type": 4,"x":79.4,"y":32},
+        {"name":"undefined","type": 4,"x":83.5,"y":32},
+        {"name":"undefined","type": 4,"x":87.6,"y":32},
+        {"name":"undefined","type": 4,"x":91.7,"y":32},
+        {"name":"undefined","type": 4,"x":95.8,"y":32},
+        {"name":"undefined","type": 4,"x":99.9,"y":32}
       ]
     },
     {

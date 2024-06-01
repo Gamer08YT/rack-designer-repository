@@ -86,9 +86,9 @@
         {"name":"eth6","type": 0,"x":73.55,"y": 53},
         {"name":"eth7","type": 0,"x":77.1,"y": 53},
         {"name":"eth8","type": 0,"x":80.65,"y": 53},
-        {"name":"wan1","type": 0,"x":532.59375,"y":40},
-        {"name":"sfp1","type": 1,"x":556.59375,"y":20},
-        {"name":"sfp2","type": 1,"x":558.59375,"y":42.5}
+        {"name":"wan1","type": 0,"x":88,"y":60},
+        {"name":"sfp1","type": 1,"x":93,"y":32},
+        {"name":"sfp2","type": 1,"x":93,"y":65}
       ]
     },
     {
@@ -98,17 +98,17 @@
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UDM-PRO.png",
       "units": 1,
       "ports": [
-        {"name":"eth1","type": 0,"x":430.59375,"y":22},
-        {"name":"eth2","type": 0,"x":447.59375,"y":22},
-        {"name":"eth3","type": 0,"x":469.59375,"y":22},
-        {"name":"eth4","type": 0,"x":492.59375,"y":22},
-        {"name":"eth5","type": 0,"x":430.59375,"y":40},
-        {"name":"eth6","type": 0,"x":446.59375,"y":40},
-        {"name":"eth7","type": 0,"x":470.59375,"y":40},
-        {"name":"eth8","type": 0,"x":489.59375,"y":40},
-        {"name":"wan1","type": 0,"x":532.59375,"y":40},
-        {"name":"sfp1","type": 1,"x":556.59375,"y":20},
-        {"name":"sfp2","type": 1,"x":558.59375,"y":42.5}
+        {"name":"eth1","type": 0,"x":70,"y": 25},
+        {"name":"eth2","type": 0,"x":73.55,"y": 25},
+        {"name":"eth3","type": 0,"x":77.1,"y": 25},
+        {"name":"eth4","type": 0,"x":80.65,"y": 25},
+        {"name":"eth5","type": 0,"x":70,"y": 53},
+        {"name":"eth6","type": 0,"x":73.55,"y": 53},
+        {"name":"eth7","type": 0,"x":77.1,"y": 53},
+        {"name":"eth8","type": 0,"x":80.65,"y": 53},
+        {"name":"wan1","type": 0,"x":88,"y":60},
+        {"name":"sfp1","type": 1,"x":93,"y":32},
+        {"name":"sfp2","type": 1,"x":93,"y":65}
       ]
     },
     {

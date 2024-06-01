@@ -1,6 +1,11 @@
 {
   "name": "UniFi",
   "author": "Jan Heil",
+  "ports": [
+    {"name": "RJ45"},
+    {"name": "SFP"},
+    {"name": "QSFP"}
+  ],
   "devices": [
     {
       "name": "Unifi Sticker",
@@ -21,28 +26,85 @@
       "id": "upatch24",
       "product": "",
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-RACK-PANEL-PATCH-BLANK-24.png",
-      "units": 1
+      "units": 1,
+      "ports": [
+        {"name":"undefined","type":"not_implemented","x":16.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":41.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":66.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":91.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":116.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":141.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":166.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":191.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":216.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":241.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":266.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":291.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":316.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":341.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":366.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":391.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":416.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":441.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":466.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":491.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":516.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":541.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":566.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":591.59375,"y":25},
+        {"name":"undefined","type":"not_implemented","x":616.59375,"y":25}
+      ]
     },
     {
       "name": "UDM SE",
       "id": "udm-se",
       "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-se",
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UDM-PRO.png",
-      "units": 1
+      "units": 1,
+      "ports": [
+        {"name":"eth1","type": 0,"x":430.59375,"y":22},
+        {"name":"eth2","type": 0,"x":447.59375,"y":22},
+        {"name":"eth3","type": 0,"x":469.59375,"y":22},
+        {"name":"eth4","type": 0,"x":492.59375,"y":22},
+        {"name":"eth5","type": 0,"x":430.59375,"y":40},
+        {"name":"eth6","type": 0,"x":446.59375,"y":40},
+        {"name":"eth7","type": 0,"x":470.59375,"y":40},
+        {"name":"eth8","type": 0,"x":489.59375,"y":40},
+        {"name":"wan1","type": 0,"x":532.59375,"y":40},
+        {"name":"sfp1","type": 1,"x":556.59375,"y":20},
+        {"name":"sfp2","type": 1,"x":558.59375,"y":42.5}
+      ]
     },
     {
       "name": "UDM Pro",
       "id": "udm-pro",
       "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-pro",
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UDM-PRO.png",
-      "units": 1
+      "units": 1,
+      "ports": [
+        {"name":"eth1","type": 0,"x":430.59375,"y":22},
+        {"name":"eth2","type": 0,"x":447.59375,"y":22},
+        {"name":"eth3","type": 0,"x":469.59375,"y":22},
+        {"name":"eth4","type": 0,"x":492.59375,"y":22},
+        {"name":"eth5","type": 0,"x":430.59375,"y":40},
+        {"name":"eth6","type": 0,"x":446.59375,"y":40},
+        {"name":"eth7","type": 0,"x":470.59375,"y":40},
+        {"name":"eth8","type": 0,"x":489.59375,"y":40},
+        {"name":"wan1","type": 0,"x":532.59375,"y":40},
+        {"name":"sfp1","type": 1,"x":556.59375,"y":20},
+        {"name":"sfp2","type": 1,"x":558.59375,"y":42.5}
+      ]
     },
     {
       "name": "CloudKey Enterprise",
       "id": "ckep",
       "product": "",
       "units": 1,
-      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/CK-ENTERPRISE.png"
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/CK-ENTERPRISE.png",
+      "ports": [
+        {"name":"eth1","type": 0,"x":509.59375,"y":36.53125},
+        {"name":"sfp1","type": 1,"x":532.59375,"y":39.53125}
+      ]
     },
     {
       "name": "UVNR",
@@ -56,14 +118,21 @@
       "id": "uvnr-pro",
       "product": "",
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UNVR-PRO.png",
-      "units": 2
+      "units": 2,
+      "ports": [
+        {"name":"eth1","type": 0,"x":531.59375,"y":38.6875},
+        {"name":"sfp1","type": 1,"x":558.59375,"y":39.6875}
+      ]
     },
     {
       "name": "USP RPS",
       "id": "ups-rps",
       "product": "",
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USP-RPS.png",
-      "units": 1
+      "units": 1,
+      "ports": [
+        {"name":"eth1","type": 1,"x":556.59375,"y":38.6875}
+      ]
     },
     {
       "name": "Pro 24 Poe",
@@ -147,7 +216,10 @@
       "id": "ckg2rm",
       "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/ckg2-rack-mount",
       "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/CKG2-RM.png",
-      "units": 1
+      "units": 1,
+      "ports": [
+        {"name":"eth1","type":0,"x":507.59375,"y":27.6875}
+      ]
     },
     {
       "name": "16-Port PoE",

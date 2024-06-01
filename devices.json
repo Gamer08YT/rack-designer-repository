@@ -86,9 +86,29 @@
         {"name":"eth6","type": 0,"x":73.55,"y": 53},
         {"name":"eth7","type": 0,"x":77.1,"y": 53},
         {"name":"eth8","type": 0,"x":80.65,"y": 53},
-        {"name":"wan1","type": 0,"x":88,"y":60},
-        {"name":"sfp1","type": 1,"x":93,"y":32},
-        {"name":"sfp2","type": 1,"x":93,"y":65}
+        {"name":"wan1","type": 0,"x":88,"y":55},
+        {"name":"sfp1","type": 1,"x":92,"y":24},
+        {"name":"sfp2","type": 1,"x":92,"y":58}
+      ]
+    },
+    {
+      "name": "UDM Pro Max",
+      "id": "udm-pro-max",
+      "product": "https://store.ui.com/us/en/collections/unifi-dream-machine/products/udm-pro-max",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UDM-PRO-MAX.png",
+      "units": 1,
+      "ports": [
+        {"name":"eth1","type": 0,"x":70,"y": 25},
+        {"name":"eth2","type": 0,"x":73.55,"y": 25},
+        {"name":"eth3","type": 0,"x":77.1,"y": 25},
+        {"name":"eth4","type": 0,"x":80.65,"y": 25},
+        {"name":"eth5","type": 0,"x":70,"y": 53},
+        {"name":"eth6","type": 0,"x":73.55,"y": 53},
+        {"name":"eth7","type": 0,"x":77.1,"y": 53},
+        {"name":"eth8","type": 0,"x":80.65,"y": 53},
+        {"name":"wan1","type": 0,"x":88,"y":55},
+        {"name":"sfp1","type": 1,"x":92,"y":24},
+        {"name":"sfp2","type": 1,"x":92,"y":58}
       ]
     },
     {

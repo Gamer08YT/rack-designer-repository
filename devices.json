@@ -1,12 +1,25 @@
 {
   "name": "UniFi",
-  "author": "Jan Heil",
-  "ports": [
-    {"name": "RJ45", "color": "yellow"},
-    {"name": "SFP", "color": "red"},
-    {"name": "QSFP", "color": "blue"},
+  "authors": [
     {
-      "name": "Keystone"
+      "name": "Jan Heil",
+      "website": "www.byte-store.de"
+    }
+  ],
+  "ports": [
+    {
+      "name": "RJ45",
+      "color": "yellow"},
+    {
+      "name": "SFP",
+      "color": "red"},
+    {
+      "name": "QSFP",
+      "color": "blue"
+    },
+    {
+      "name": "Keystone",
+      "color": "gray"
     }
   ],
   "devices": [
@@ -78,7 +91,7 @@
         {"name":"sfp2","type": 1,"x":558.59375,"y":42.5}
       ]
     },
-    {ty
+    {
       "name": "UDM Pro",
       "id": "udm-pro",
       "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-pro",

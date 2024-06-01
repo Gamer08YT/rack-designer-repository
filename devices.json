@@ -1,181 +1,181 @@
 {
-    "name": "UniFi",
-    "author": "Jan Heil",
-    "devices": [
-        {
-            "name": "Unifi Sticker",
-            "id": "sticker",
-            "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/StickerUbiquiti.png",
-            "units": 2
-        },
-        {
-            "name": "Rackmount FritzBox",
-            "id": "rackfritz",
-            "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/Rackmountfritz.png",
-            "units": 1
-        },
-        {
-            "name": "Patchfeld 24 Ports",
-            "id": "upatch24",
-            "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-RACK-PANEL-PATCH-BLANK-24.png",
-            "units": 1
-        },
-        {
-            "name": "UDM SE",
-            "id": "udm-se",
-            "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-se",
-            "image": "https://space.byte-store.de/internal/woltlab/img/UDM-PRO.png",
-            "units": 1
-        },
-        {
-            "name": "UDM Pro",
-            "id": "udm-pro",
-            "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-pro",
-            "image": "https://space.byte-store.de/internal/woltlab/img/UDM-PRO.png",
-            "units": 1
-        },
-        {
-            "name": "CloudKey Enterprise",
-            "id": "ckep",
-            "product": "",
-            "units": 1,
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/CK-ENTERPRISE.png"
-        },
-        {
-            "name": "UVNR",
-            "id": "uvnr",
-            "product": "",
-            "image": "https://space.byte-store.de/internal/woltlab/img/UNVR.png",
-            "units": 1
-        },
-        {
-            "name": "UVNR Pro",
-            "id": "uvnr-pro",
-            "product": "",
-            "image": "https://space.byte-store.de/internal/woltlab/img/UNVR-PRO.png",
-            "units": 2
-        },
-        {
-            "name": "USP RPS",
-            "id": "ups-rps",
-            "product": "",
-            "image": "https://space.byte-store.de/internal/woltlab/img/USP-RPS.png",
-            "units": 1
-        },
-        {
-            "name": "Pro 24 Poe",
-            "id": "pro24poe",
-            "product": "",
-            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-24-POE.png",
-            "units": 1
-        },
-        {
-            "name": "Hi-Capacity Aggregation",
-            "id": "highCaggregation",
-            "product": "",
-            "image": "https://space.byte-store.de/internal/woltlab/img/USW_PRO_AGGREGATION.png",
-            "units": 1
-        },
-        {
-            "name": "Pro Max 24",
-            "id": "promax24",
-            "product": "",
-            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-MAX-24.png",
-            "units": 1
-        },
-        {
-            "name": "Pro Max 24 Poe",
-            "id": "promax24poe",
-            "product": "",
-            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-MAX-24-POE.png",
-            "units": 1
-        },
-        {
-            "name": "Pro Max 48",
-            "id": "promax48",
-            "product": "",
-            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-MAX-48.png",
-            "units": 1
-        },
-        {
-            "name": "Pro Max 48 Poe",
-            "id": "promax48poe",
-            "product": "",
-            "image": "https://space.byte-store.de/internal/woltlab/img/USW-PRO-MAX-48-POE.png",
-            "units": 1
-        },
-        {
-            "name": "UACC-Rack-Panel-Brush-1U",
-            "id": "uaccrpb1u",
-            "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-brush-1u",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-Rack-Panel-Brush-1U.png",
-            "units": 1
-        },
-        {
-            "name": "UACC-Rack-Panel-Vented-1U",
-            "id": "uaccrpv1u",
-            "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-vented-1u",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-Rack-Panel-Vented-1U.png",
-            "units": 1
-        },
-        {
-            "name": "UACC-Rack-Panel-Blank-1U",
-            "id": "uaccrpb1u",
-            "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-blank-1u",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-Rack-Panel-Blank-1U.png",
-            "units": 1
-        },
-        {
-            "name": "US-16-XG",
-            "id": "us16xg",
-            "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/US-16-XG.png",
-            "units": 1
-        },
-        {
-            "name": "USW-Aggregation",
-            "id": "uswaggregation",
-            "product": "https://eu.store.ui.com/eu/en/pro/products/usw-aggregation",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW-Aggregation.png",
-            "units": 1
-        },
-         {
-            "name": "CKG2-RM",
-            "id": "ckg2rm",
-            "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/ckg2-rack-mount",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/CKG2-RM.png",
-            "units": 1
-        },
-        {
-            "name": "16-Port PoE",
-            "id": "16portpoe",
-            "product": "https://eu.store.ui.com/eu/en/pro/products/usw-16-poe",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/16-Port PoE.png",
-            "units": 1
-        },
-        {
-            "name": "Dell 1400 2U Cut",
-            "id": "dell-md14002u.png",
-            "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/dell-md14002u.png",
-            "units": 1
-        },
-        {
-            "name": "Generic 1HE Server",
-            "id": "generic1Userver",
-            "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/generic1Userver.png",
-            "units": 1
-        },
-        {
-            "name": "Generic 2HE Server",
-            "id": "generic2Userver",
-            "product": "",
-            "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/generic2Userver.png",
-            "units": 1
-        }
-    ]
+  "name": "UniFi",
+  "author": "Jan Heil",
+  "devices": [
+    {
+      "name": "Unifi Sticker",
+      "id": "sticker",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/StickerUbiquiti.png",
+      "units": 2
+    },
+    {
+      "name": "Rackmount FritzBox",
+      "id": "rackfritz",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/Rackmountfritz.png",
+      "units": 1
+    },
+    {
+      "name": "Patchfeld 24 Ports",
+      "id": "upatch24",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-RACK-PANEL-PATCH-BLANK-24.png",
+      "units": 1
+    },
+    {
+      "name": "UDM SE",
+      "id": "udm-se",
+      "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-se",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UDM-PRO.png",
+      "units": 1
+    },
+    {
+      "name": "UDM Pro",
+      "id": "udm-pro",
+      "product": "https://eu.store.ui.com/eu/en/pro/category/all-unifi-cloud-gateways/products/udm-pro",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UDM-PRO.png",
+      "units": 1
+    },
+    {
+      "name": "CloudKey Enterprise",
+      "id": "ckep",
+      "product": "",
+      "units": 1,
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/CK-ENTERPRISE.png"
+    },
+    {
+      "name": "UVNR",
+      "id": "uvnr",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UNVR.png",
+      "units": 1
+    },
+    {
+      "name": "UVNR Pro",
+      "id": "uvnr-pro",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UNVR-PRO.png",
+      "units": 2
+    },
+    {
+      "name": "USP RPS",
+      "id": "ups-rps",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USP-RPS.png",
+      "units": 1
+    },
+    {
+      "name": "Pro 24 Poe",
+      "id": "pro24poe",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW-PRO-24-POE.png",
+      "units": 1
+    },
+    {
+      "name": "Hi-Capacity Aggregation",
+      "id": "highCaggregation",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW_PRO_AGGREGATION.png",
+      "units": 1
+    },
+    {
+      "name": "Pro Max 24",
+      "id": "promax24",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW-PRO-MAX-24.png",
+      "units": 1
+    },
+    {
+      "name": "Pro Max 24 Poe",
+      "id": "promax24poe",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW-PRO-MAX-24-POE.png",
+      "units": 1
+    },
+    {
+      "name": "Pro Max 48",
+      "id": "promax48",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW-PRO-MAX-48.png",
+      "units": 1
+    },
+    {
+      "name": "Pro Max 48 Poe",
+      "id": "promax48poe",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW-PRO-MAX-48-POE.png",
+      "units": 1
+    },
+    {
+      "name": "UACC-Rack-Panel-Brush-1U",
+      "id": "uaccrpb1u",
+      "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-brush-1u",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-Rack-Panel-Brush-1U.png",
+      "units": 1
+    },
+    {
+      "name": "UACC-Rack-Panel-Vented-1U",
+      "id": "uaccrpv1u",
+      "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-vented-1u",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-Rack-Panel-Vented-1U.png",
+      "units": 1
+    },
+    {
+      "name": "UACC-Rack-Panel-Blank-1U",
+      "id": "uaccrpb1u",
+      "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-blank-1u",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/UACC-Rack-Panel-Blank-1U.png",
+      "units": 1
+    },
+    {
+      "name": "US-16-XG",
+      "id": "us16xg",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/US-16-XG.png",
+      "units": 1
+    },
+    {
+      "name": "USW-Aggregation",
+      "id": "uswaggregation",
+      "product": "https://eu.store.ui.com/eu/en/pro/products/usw-aggregation",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW-Aggregation.png",
+      "units": 1
+    },
+    {
+      "name": "CKG2-RM",
+      "id": "ckg2rm",
+      "product": "https://eu.store.ui.com/eu/en/pro/category/accessories-rack-mount/products/ckg2-rack-mount",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/CKG2-RM.png",
+      "units": 1
+    },
+    {
+      "name": "16-Port PoE",
+      "id": "16portpoe",
+      "product": "https://eu.store.ui.com/eu/en/pro/products/usw-16-poe",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/16-Port PoE.png",
+      "units": 1
+    },
+    {
+      "name": "Dell 1400 2U Cut",
+      "id": "dell-md14002u.png",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/dell-md14002u.png",
+      "units": 1
+    },
+    {
+      "name": "Generic 1HE Server",
+      "id": "generic1Userver",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/generic1Userver.png",
+      "units": 1
+    },
+    {
+      "name": "Generic 2HE Server",
+      "id": "generic2Userver",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/generic2Userver.png",
+      "units": 1
+    }
+  ]
 }

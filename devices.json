@@ -192,6 +192,13 @@
       "units": 1
     },
     {
+      "name": "Pro Max 16",
+      "id": "promax16",
+      "product": "",
+      "image": "https://raw.githubusercontent.com/Gamer08YT/rack-designer-repository/main/assets/img/devices/USW-PRO-MAX-16.png",
+      "units": 1
+    },
+    {
       "name": "Pro Max 16 Poe",
       "id": "promax16poe",
       "product": "",

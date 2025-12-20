@@ -7,3 +7,11 @@
 
 ### Example installation:
 ![image](https://github.com/Gamer08YT/rack-designer-repository/assets/31771657/3dd4d602-a7b0-4306-b944-510e5ab20d00)
+
+#### Disclaimer
+
+The graphics are not intended for commercial use. Anyone who uses them is responsible for ensuring that the copyright holder agrees to this.
+
+We are not affiliated with Ubiquiti, AVM, etc. Please create an issue for copyright issues.
+
+This project is for testing purposes only.
